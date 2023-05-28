@@ -1,0 +1,26 @@
+/* Write your code here: */
+/*grouping*/
+h1, h2{
+    color: blueviolet;
+}
+/*child*/
+.box > p{
+    color: firebrick;
+}
+/*descendent*/
+.box li{
+    color: blue;
+}
+/*chaining*/
+li.done{
+    color: seagreen;
+}
+/**/
+ul p.done{
+font-size: 0.5rem;
+}
+
+.laks p#sai.bala.naga{
+    align-items: center;
+    color: darkmagenta;
+}
